@@ -25,6 +25,7 @@ function sorting(arrNumber) {
   return arrNumber
 
   }
+
   
   function getTotal(arrNumber) {
 
